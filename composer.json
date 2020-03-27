@@ -1,0 +1,18 @@
+{
+    "name": "hertz/basal-model",
+    "description": "base model to build your own model on top",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Kirbach",
+            "email": "coder@37hertz.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hertz\\BasalModel\\": "src"
+        }
+    }
+}
